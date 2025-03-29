@@ -1,0 +1,73 @@
+body{
+    background-image:url(../1743247805472.jpg) ; 
+    border-radius: 0lvw;
+    border-color: rgb(202, 37, 37); 
+    border-width: 0cqmax;
+    border-style: inset;
+    border-top: 0cqb;
+    margin: 0cm;
+    text-decoration: rgb(172, 123, 63);
+    text-align: center;
+    text-decoration-color: rgb(7, 43, 141);
+
+}
+title{
+    text-decoration: rgb(87, 66, 66);
+    text-decoration-color: rgb(32, 23, 23);
+    text-indent: 0em;
+    text-shadow: 0cqmin;
+    font-style: oblique;
+    font-size: larger;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+
+}
+header{
+    font-size: large;
+    font-weight: 200;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    text-decoration-color: rgb(19, 165, 153);
+    text-decoration: solid;
+    
+}
+
+h2{
+    color:rgb(50, 50, 109);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+
+}
+
+p{
+    text-size-adjust: 50;
+    background-color: rgb(201, 170, 124);
+    font-style: calc(333);
+    font-family: inherit;
+}
+
+h2{
+    background-color: rgb(78, 23, 23);
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: initial;
+    font-variant: unset;
+    text-decoration: rgb(137, 238, 238);
+
+}
+
+name{
+    color: rgb(32, 32, 31);
+    table-layout: initial;
+    font-size: x-large;
+    font-family: fantasy;
+
+}
+h3{
+    color: rgb(28, 32, 28);
+    text-decoration: antiquewhite;
+    font-size: larger;
+}
+
+
